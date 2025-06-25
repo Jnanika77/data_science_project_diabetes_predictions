@@ -16,24 +16,22 @@ Follow the steps below to run this project locally on your system.
 
 1. **Clone the Repository** (or download as ZIP)
 
-```bash
 git clone https://github.com/Jnanika77/data_science_project_diabetes_predictions.git
 cd data_science_project_diabetes_predictions
 
-Installing libraries
 
-### 2. Install Required Python Packages
+2. **Install Required Python Packages**
 
 Use pip to install the necessary libraries:
 
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
-3. Launch Jupyter Notebook
+3. **Launch Jupyter Notebook**
 Run the following command to start Jupyter Notebook:
 
 jupyter notebook
 
-4. Open and Run the Notebook
+4. **Open and Run the Notebook**
 
 Navigate to the .ipynb file in the Jupyter browser interface.
 
