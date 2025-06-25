@@ -27,6 +27,7 @@ Use pip to install the necessary libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 3. **Launch Jupyter Notebook**
+   
 Run the following command to start Jupyter Notebook:
 
 jupyter notebook
