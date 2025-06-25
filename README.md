@@ -24,16 +24,13 @@ Installing libraries
 
 ### 2. Install Required Python Packages
 
-```bash
 Use pip to install the necessary libraries:
 
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 3. Launch Jupyter Notebook
 Run the following command to start Jupyter Notebook:
 
-```bash
 jupyter notebook
 
 4. Open and Run the Notebook
