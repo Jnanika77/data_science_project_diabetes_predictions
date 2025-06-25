@@ -20,7 +20,7 @@ Follow the steps below to run this project locally on your system.
 git clone https://github.com/Jnanika77/data_science_project_diabetes_predictions.git
 cd data_science_project_diabetes_predictions
 
-2. Install Required Python Packages 
+### 2. Install Required Python Packages 
 
 Use pip to install the necessary libraries:
 
